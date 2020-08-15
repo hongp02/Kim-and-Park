@@ -1,16 +1,19 @@
 {
   "name": "hongp",
   "version": "1.0.0",
-  "description": "projectwithKim",
+  "description": "client",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "hongp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongp02/Kim-and-Park.git"
+  },
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1"
-  }
+  "bugs": {
+    "url": "https://github.com/hongp02/Kim-and-Park/issues"
+  },
+  "homepage": "https://github.com/hongp02/Kim-and-Park#readme"
 }
